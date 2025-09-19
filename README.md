@@ -31,4 +31,4 @@ Este repositório contém:
 
 ### Créditos
 O código do site final foi desenvolvido acompanhando as aulas do curso no YouTube:  
-[Programação Web]([URL_DO_LINK](https://www.youtube.com/watch?v=HtVRRHoASes&list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c&index=1))
+[Programação Web](https://www.youtube.com/watch?v=HtVRRHoASes&list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c&index=1)
